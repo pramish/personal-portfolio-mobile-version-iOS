@@ -51,6 +51,7 @@
                                 <rect key="frame" x="91" y="432" width="274" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <color key="tintColor" systemColor="linkColor" red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="luitelpramish7@gmail.com"/>
                                 <connections>
                                     <action selector="sendEmailButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Py0-Wh-EZ6"/>
